@@ -1,0 +1,26 @@
+.banner{
+	background-image: url(../../assets/img/banner.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 560px;
+	width: 100%;
+	border-bottom: 10px solid #000;
+
+}
+.envolviment{
+		display: flex;
+		flex-direction: column;
+		width: 520px;
+		padding-top: 116px;
+		padding-left: 91px;
+}
+.banner .envolviment .box{
+	margin-bottom: 38px;
+}
+.banner .central{
+		display: flex;
+		justify-content: space-around;
+}
+.banner .central .button{
+		background-color: #F29966;
+}

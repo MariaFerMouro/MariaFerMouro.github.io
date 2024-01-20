@@ -1,0 +1,5 @@
+.skill::before{
+	display:grid;
+	content: "";
+	background-image: url(../../assets/img/ico_html5.png);
+}
